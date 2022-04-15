@@ -1,4 +1,36 @@
 ## ----------  APPLE ---------- ##
+
+# Apple Music
+host-suffix,music.apple.com, Apple
+host-suffix,audio-ssl.itunes.apple.com, Apple
+host-suffix,cdn-apple.com, Apple
+host,cdn.apple-cloudkit.com, Apple
+host,devimages-cdn.apple.com, Apple
+host,devstreaming-cdn.apple.com, Apple
+host,js-cdn.music.apple.com, Apple
+host,docs-assets.developer.apple.com, Apple
+host,api.smoot.apple.cn, Apple
+host,streamingaudio.itunes.apple.com, Apple
+##AM串流
+host,aod.itunes.apple.com, Apple
+##AM用户上传歌曲串                   
+host-suffix, blobstore.apple.com, Apple
+##AM电台串流
+host, itsliveradio.apple.com, Apple
+##AM视频串流
+host, mvod.itunes.apple.com, Apple
+host, aodp-ssl.itunes.apple.com, Apple
+#Apple TV
+host-suffix,tv.apple.com, Apple
+host, play.itunes.apple.com, Apple
+##TV+ 下载
+host, hls-svod-aoc.itunes.apple.com, Apple
+##TV+ 串流
+host, vod-ap3-aoc.tv.apple.com, Apple
+# trailer
+host-suffix,hls.itunes.apple.com, Apple
+# Movie Stream
+host-suffix,hls-amt.itunes.apple.com, Apple
 # Apple 代理加速
 host,developer.apple.com, GlobalMedia
 
