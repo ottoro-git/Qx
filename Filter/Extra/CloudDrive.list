@@ -1,7 +1,0 @@
-# Google Drive
-host-suffix, www.googleapis.com, GlobalMedia
-host-suffix,docs.google.com,GlobalMedia
-host-suffix,drive.google.com,GlobalMedia
-host-suffix,googledrive.com,GlobalMedia
-host-suffix,googleusercontent.com,GlobalMedia
-user-agent,backupandsync,GlobalMedia
