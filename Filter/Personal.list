@@ -1,18 +1,10 @@
 ## ---------- 个人杂项 ---------- ##
-# PayPal
-host-suffix, paypal.com, PayPal
-host-suffix, paypalobjects.com, PayPal
-host-keyword, paypal, PayPal
 # 电影网站
 host-keyword, trakt, Global
 host-suffix, rottentomatoes.com, Global
-host-suffix, themoviedb.org, GlobalMedia
-host-suffix, tmdb.org, GlobalMedia
+host-suffix, themoviedb.org, Global
+host-suffix, tmdb.org, Global
 host-suffix, plex.tv, GlobalMedia
-# Steam
-host-suffix, steampowered.com, Steam
-host-suffix, steamstatic.com, Steam
-host-suffix, steamcommunity.com, Steam
 # Nintendo
 host-suffix, nintendo.net, Global
 host-suffix, nintendo.com, Global
@@ -28,5 +20,4 @@ host-suffix, behance.net, Global
 # Pinterest
 host-suffix, pinimg.com, Global
 host-suffix, pinterest.com, Global
-# Dropbox
-host-keyword,dropbox,GlobalMedia
+
