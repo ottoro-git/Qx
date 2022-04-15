@@ -239,6 +239,5 @@ host,d1k2us671qcoau.cloudfront.net, GlobalMedia
 host,d2anahhhmp1ffz.cloudfront.net, GlobalMedia
 host,dfp6rglgjqszk.cloudfront.net, GlobalMedia
 # > WeTV
-USER-AGENT,WeTV*,GlobalMedia
 host-suffix,wetv.vip,GlobalMedia
 host-suffix,wetvinfo.com, GlobalMedia
