@@ -1,0 +1,112 @@
+## ----------  APPLE ---------- ##
+# Apple 代理加速
+host,developer.apple.com, GlobalMedia
+
+# Apple News 解锁
+host-suffix, gateway.icloud.com, US
+host-suffix, apple.news, US
+host-suffix, news-events.apple.com, US
+host-suffix, news-client.apple.com, US
+host-suffix, news-edge.apple.com, US
+host-suffix, news-assets.apple.com, US
+## GeoServices.framework,会改变自带地图服务提供商
+host-suffix, gspe1-ssl.ls.apple.com, US
+host-suffix, apple.comscoreresearch.com, US
+user-agent, News*, US
+user-agent, AppleNews*, US
+
+# iCloud 上传和下载
+host,cvws.icloud-content.com, Apple
+host-suffix,icloud-content.com, Apple
+host-suffix,me.com, Apple
+host-suffix,apple.com, Apple
+host-suffix,icloud.com, Apple
+host-suffix,apple-cloudkit.com, Apple
+user-agent,cloudd*, Apple
+
+# iOS App Store
+host,iosapps.itunes.apple.com, Apple
+user-agent, com.apple.appstored*, Apple
+user-agent,AppStore*, Apple
+# App Store & iTunes Images
+host-suffix,mzstatic.com, Apple
+
+# Mac App Store
+host,osxapps.itunes.apple.com, Apple
+
+# Update
+host,supportdownload.apple.com, Apple
+host,appldnld.apple.com, Apple
+host,swcdn.apple.com, Apple
+host,apptrailers.itunes.apple.com, Apple
+host,updates-http.cdn-apple.com, Apple
+
+# Apple 按需切换, 默认直连
+host-suffix,aaplimg.com,Apple
+host-suffix,apple.co,Apple
+host-suffix,apple.com,Apple
+host-suffix,aaplimg.com, Apple
+host-suffix,cdn20.com, Apple
+host-suffix,cdn-apple.com, Apple
+host-suffix,akadns.net, Apple
+host-suffix,akamaiedge.net, Apple
+host-suffix,edgekey.net, Apple
+host-suffix,mwcloudcdn.com, Apple
+host-suffix,mwcname.com, Apple
+host-suffix,apple-mapkit.com, Apple
+user-agent, com.apple.mobileme.fmip1*, Apple
+host-suffix,digicert.com, Apple
+user-agent,com.apple.trustd*, Apple
+host-suffix,apple-dns.net, Apple
+host,testflight.apple.com, Apple
+host,sandbox.itunes.apple.com, Apple
+host-suffix,apps.apple.com, Apple
+user-agent,WeatherFoundation*,  Apple
+host,apps.apple.com, Apple
+host,xp.apple.com, Apple
+host,bag.itunes.apple.com, Apple
+host,api-edge.apps.apple.com, Apple
+host,api.apps.apple.com, Apple
+host,se.itunes.apple.com, Apple
+host,se-edge.itunes.apple.com, Apple
+host,su.itunes.apple.com, Apple
+host,upp.itunes.apple.com, Apple
+host,beta.music.apple.com, Apple
+host-keyword,buy.itunes.apple.com, Apple
+host-suffix,itunes.com,Apple
+host-suffix,itunes.apple.com, Apple
+# Apple 直连
+host,api.smoot.apple.com,direct
+host,captive.apple.com,direct
+host,configuration.apple.com,direct
+host,guzzoni.apple.com,direct
+# Apple Pay
+host,smp-device-content.apple.com,direct
+host-keyword,smp-device,direct
+user-agent, passd*,direct
+user-agent, Wallet*,direct
+# locationd
+host,gs-loc.apple.com,direct
+# Reserve
+host,reserve-prime.apple.com,direct
+host-suffix,ess.apple.com,direct
+host-suffix,push-apple.com.akadns.net,direct
+host-suffix,push.apple.com,direct
+# Settings
+user-agent,%E8%AE%BE%E7%BD%AE*,direct
+user-agent,com.apple.geod*, direct
+user-agent,com.apple.Maps*, direct
+user-agent,FindMyFriends*, direct
+user-agent,FindMyiPhone*, direct
+user-agent,FMDClient*, direct
+user-agent,FMFD*, direct
+user-agent,fmflocatord*, direct
+user-agent,geod*, direct
+user-agent,locationd*, direct
+user-agent,Maps*, direct
+# Maps
+user-agent,%E5%9C%B0%E5%9B%BE*, direct
+# Asset Cache Locator Service
+host-suffix,lcdn-locator.apple.com,direct
+# Caching Server Registration
+host-suffix,lcdn-registration.apple.com,direct
