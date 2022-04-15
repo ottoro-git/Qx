@@ -1,0 +1,9 @@
+# Amazon
+host-suffix, amazon.cn, direct
+host-suffix, ssl-images-amazon.cn, direct
+host-suffix, amazon.com, Amazon
+host-suffix, amazonaws.com, Amazon
+host-suffix, amazon.com.tr, Amazon
+# Audible
+host-suffix, audible.com, GlobalMedia
+host-keyword, audible, GlobalMedia
