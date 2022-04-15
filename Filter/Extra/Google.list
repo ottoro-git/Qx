@@ -1,3 +1,12 @@
+# Google Drive
+host-suffix, www.googleapis.com, GlobalMedia
+host-suffix,docs.google.com,GlobalMedia
+host-suffix,drive.google.com,GlobalMedia
+host-suffix,googledrive.com,GlobalMedia
+host-suffix,googleusercontent.com,GlobalMedia
+user-agent,backupandsync,GlobalMedia
+
+# Google
 host-suffix,ampproject.org,Global
 host-suffix,abc.xyz,Global
 host-suffix,android.com,Global
@@ -45,6 +54,5 @@ host-suffix,appspot.com,Global
 host-suffix,blogger.com,Global
 host-suffix,getoutline.org,Global
 host-suffix,xn--ngstr-lra8j.com,Global
-host-suffix,googleapis.com,Global
 host-keyword,blogspot,Global
 host-keyword,google,Global
