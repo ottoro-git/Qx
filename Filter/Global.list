@@ -364,9 +364,6 @@ host-suffix,redditstatic.com,Global
 # > Reuters
 host-suffix,reuters.com,Global
 host-suffix,reutersmedia.net,Global
-# > Steam
-host-suffix,steamcommunity.com,Global
-# host,store.steampowered.com,Global
 # > Telegram
 host-suffix,legra.ph,Global
 host-suffix,t.me,Global
