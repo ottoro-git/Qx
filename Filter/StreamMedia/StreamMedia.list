@@ -58,6 +58,7 @@ host-suffix, execute-api.ap-southeast-1.amazonaws.com, Amazon
 host-suffix, scdn.co, Spotify
 host-suffix, spotify.com, Spotify
 host-suffix, spotifycdn.com, Spotify
+host-keyword, spotify, Spotify
 # Hulu
 host-suffix, hulustream.com, GlobalMedia
 host-keyword, hulu, US
