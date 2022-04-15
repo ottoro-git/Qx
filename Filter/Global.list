@@ -299,7 +299,7 @@ host-suffix,discordapp.net,Global
 # > Dropbox
 host-suffix,dropbox.com,GlobalMedia
 host-suffix,dropboxapi.com,GlobalMedia
-host-suffix,dropboxusercontent.com,GlobalMeida
+host-suffix,dropboxusercontent.com,GlobalMedia
 # > Fastly
 host-suffix,freetls.fastly.net,Global
 host,cloud-cdn-digitalocean-com.global.ssl.fastly.net,Global
