@@ -1,0 +1,21 @@
+# Netflix
+host-suffix, us-west-2.amazonaws.com, Netflix
+host-keyword, netflix, Netflix
+host-keyword, nflx, Netflix
+host-suffix, netflix.com, Netflix
+user-agent,Argo*, Netflix
+host-suffix,netflix.net,Netflix
+host-suffix,nflxext.com,Netflix
+host-suffix,nflximg.com,Netflix
+host-suffix,nflximg.net,Netflix
+host-suffix,nflxso.net,Netflix
+host-suffix,nflxvideo.net,Netflix
+ip-cidr,23.246.0.0/18,Netflix
+ip-cidr,37.77.184.0/21,Netflix
+ip-cidr,45.57.0.0/17,Netflix
+ip-cidr,64.120.128.0/17,Netflix
+ip-cidr,66.197.128.0/17,Netflix
+ip-cidr,108.175.32.0/20,Netflix
+ip-cidr,192.173.64.0/18,Netflix
+ip-cidr,198.38.96.0/19,Netflix
+ip-cidr,198.45.48.0/20,Netflix
