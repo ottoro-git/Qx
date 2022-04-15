@@ -191,7 +191,7 @@ host-suffix,nimg.jp ,GlobalMedia
 host-suffix,nowe.com, GlobalMedia
 host-suffix,nowestatic.com, GlobalMedia
 # > Paramount+
-USER-AGENT,PPlus*
+USER-AGENT,PPlus*, GlobalMedia
 host-suffix,cbsi.com, GlobalMedia
 host-suffix,cbsaavideo.com, GlobalMedia
 host-suffix,cbsivideo.com, GlobalMedia
@@ -202,7 +202,7 @@ host,cbsplaylistserver.aws.syncbak.com, GlobalMedia
 host,cbsservice.aws.syncbak.com, GlobalMedia
 host,link.theplatform.com, GlobalMedia
 # > PBS
-USER-AGENT,PBS*
+USER-AGENT,PBS*, US
 host-suffix,pbs.org,US
 # > Peacock
 USER-AGENT,PeacockMobile*,US
