@@ -1,0 +1,13 @@
+# YouTube
+host-keyword,youtube,GlobalMedia
+host-suffix,googlevideo.com,GlobalMedia
+host-suffix,youtube.com,GlobalMedia
+host-suffix,ytimg.com,GlobalMedia
+host,youtubei.googleapis.com,GlobalMedia
+host,yt3.ggpht.com,GlobalMedia
+host-suffix,youtu.be,GlobalMedia
+host-suffix,yt.be,GlobalMedia
+host-suffix,gv.com,GlobalMedia
+host-suffix,gvt0.com,GlobalMedia
+host-suffix,gvt1.com,GlobalMedia
+host-suffix,gvt3.com,GlobalMedia
