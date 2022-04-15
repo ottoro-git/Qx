@@ -87,7 +87,7 @@ host-keyword,uk-live ,GlobalMedia
 host-suffix,biliintl.com, GlobalMedia
 host,apm-misaka.biliapi.net, GlobalMedia
 host,p.bstarstatic.com, GlobalMedia
-host,p-bstarstatic.akamaized.net, GlobalMedia, GlobalMedia
+host,p-bstarstatic.akamaized.net, GlobalMedia
 host,upos-bstar-mirrorakam.akamaized.net, GlobalMedia
 host,upos-bstar1-mirrorakam.akamaized.net, GlobalMedia
 # > DAZN
