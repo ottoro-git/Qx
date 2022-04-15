@@ -1,0 +1,22 @@
+# Prime Video 美区
+host, atv-ps.amazon.com, Amazon
+host, s3-iad-2.cf.hls.row.aiv-cdn.net, Amazon
+host, cf-trickplay.aux.pv-cdn.net, Amazon
+host, s3-dub-2.cf.trailer.row.aiv-cdn.net, Amazon
+host, s3-iad-ww.cf.videorolls.row.aiv-cdn.net, Amazon
+host, ters.us-east-1.aiv-delivery.net, Amazon
+host-suffix, us-east-1.aiv-delivery.net, Amazon
+# Prime Video 国际区
+host-suffix, amazonaws.com, GlobalMedia
+host-suffix, primevideo.com, Amazon
+host-suffix, amazonvideo.com, Amazon
+host-suffix, media-amazon.com, Amazon
+host-suffix, aiv-cdn.net, Amazon
+host-suffix, aiv-delivery.net, Amazon
+host, atv-ps.amazon.com, Amazon
+host, fls-na.amazon.com, Amazon
+host-suffix, ssl-images-amazon.com, Amazon
+host-suffix, pv-cdn.net, Amazon
+host, avodmp4s3ww-a.akamaihd.net, Amazon
+host, pv-cdn.net, Amazon
+host-suffix, execute-api.ap-southeast-1.amazonaws.com, Amazon
