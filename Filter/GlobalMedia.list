@@ -232,7 +232,6 @@ USER-AGENT,TVer-Release*,GlobalMedia
 host-suffix,tver.jp,GlobalMedia
 host,edge.api.brightcove.com, GlobalMedia
 # > ViuTV
-USER-AGENT,Viu*,GlobalMedia
 host-suffix,viu.com, GlobalMedia
 host-suffix,viu.tv,GlobalMedia
 host,api.viu.now.com, GlobalMedia
