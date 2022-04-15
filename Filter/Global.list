@@ -384,11 +384,7 @@ IP-CIDR,91.108.56.0/22,Global
 IP-CIDR,91.105.192.0/23,Global
 IP-CIDR,149.154.160.0/20,Global
 IP-CIDR,185.76.151.0/24,Global
-IP-CIDR6,2001:b28:f23d::/48,Global
-IP-CIDR6,2001:b28:f23f::/48,Global
-IP-CIDR6,2001:67c:4e8::/48,Global
-IP-CIDR6,2001:b28:f23c::/48,Global
-IP-CIDR6,2a0a:f280::/32,Global
+
 # > The Economist
 host-suffix,economist.com,Global
 host-suffix,static-economist.com,Global
