@@ -1,22 +1,24 @@
-## ---------- 个人杂项 ---------- ##
-# 电影网站
+## ---------- Global_Add-on ---------- ##
+# Movie Websites
 host-keyword, trakt, Global
 host-suffix, rottentomatoes.com, Global
 host-suffix, themoviedb.org, Global
 host-suffix, tmdb.org, Global
 host-suffix, plex.tv, GlobalMedia
+
+# >Games
 # Nintendo
 host-suffix, nintendo.net, Global
 host-suffix, nintendo.com, Global
 host-keyword, nintendo, GlobalMedia
 # Rockstar Games
 host-suffix, rockstargames.com, Global
-# > 图片网站
+
+# > Picture Websites
 # Adobe
 host-suffix, adobelogin.com, Global
 host-suffix, adobe.com, Global
 host-suffix, adobe.io, Global
-# Behance
 host-suffix, behance.net, Global
 host-keyword, behance, Global
 # Pinterest
