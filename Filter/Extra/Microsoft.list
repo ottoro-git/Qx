@@ -1,11 +1,5 @@
 ## ---------- MICROSOFT ---------- ##
-# Microsoft
-host-suffix, microsoft.com, Microsoft
-host-suffix, microsoftonline.com, Microsoft
-host-suffix, s-microsoft.com, Microsoft
-host-suffix, live.com, Microsoft
-host-suffix, live.net, Microsoft
-host-suffix, microsofttranslator.com, Microsoft
+
 # One Drvie
 host, onedrive.live.com, Microsoft
 ## One Drive 在线视观看
@@ -15,8 +9,12 @@ host-suffix, sharepoint.com, Microsoft
 host-suffix, storage.live.com, Microsoft
 host-suffix, livefilestore.com, Microsoft
 host-suffix, onedrive.com, Microsoft
+
 # Xbox
 host-suffix, xboxlive.com, Microsoft
+host,assets1.xboxlive.com,Microsoft
+host,assets2.xboxlive.com,Microsoft
+
 # Office
 host-suffix, outlook.com, Microsoft
 host-suffix, onenote.com, Microsoft
@@ -24,3 +22,11 @@ host-suffix, office.net, Microsoft
 host-suffix, office.com, Microsoft
 host-keyword, officecdn, Microsoft
 host-suffix, office365.com, Microsoft
+
+# Microsoft
+host-suffix, microsoft.com, Microsoft
+host-suffix, microsoftonline.com, Microsoft
+host-suffix, s-microsoft.com, Microsoft
+host-suffix, live.com, Microsoft
+host-suffix, live.net, Microsoft
+host-suffix, microsofttranslator.com, Microsoft
