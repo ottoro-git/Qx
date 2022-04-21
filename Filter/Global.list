@@ -343,10 +343,6 @@ host-suffix,github.com,Global
 host-suffix,github.io,Global
 host-suffix,githubassets.com,Global
 host-suffix,githubusercontent.com,Global
-host-suffix,onedrive.live.com,Global
-host-suffix,streaming.mediaservices.windows.net,Global
-host,az416426.vo.msecnd.net,Global
-host,az668014.vo.msecnd.net,Global
 # > Pinterest
 host-suffix,pinimg.com,Global
 host-keyword,.pinterest.,Global
