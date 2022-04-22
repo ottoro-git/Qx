@@ -2,7 +2,7 @@
 
 # One Drvie
 host, onedrive.live.com, Global
-host-suffix, onedrive.com, Global
+host-suffix, onedrive.com, Microsoft
 ## One Drive 在线视观看
 host-suffix, 1drv.com, Microsoft
 ## One Drive 文件上传
