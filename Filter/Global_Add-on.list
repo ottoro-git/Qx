@@ -10,7 +10,7 @@ host-suffix, plex.tv, GlobalMedia
 # Nintendo
 host-suffix, nintendo.net, Global
 host-suffix, nintendo.com, Global
-host-keyword, nintendo, GlobalMedia
+host-keyword, nintendo, Global
 # Rockstar Games
 host-suffix, rockstargames.com, Global
 
