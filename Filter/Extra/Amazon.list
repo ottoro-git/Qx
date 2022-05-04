@@ -5,5 +5,5 @@ host-suffix, amazon.com, Amazon
 host-suffix, amazonaws.com, Amazon
 host-suffix, amazon.com.tr, Amazon
 # Audible
-host-suffix, audible.com, GlobalMedia
-host-keyword, audible, GlobalMedia
+host-suffix, audible.com, Media
+host-keyword, audible, Media
