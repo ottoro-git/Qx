@@ -7,7 +7,7 @@ host, s3-iad-ww.cf.videorolls.row.aiv-cdn.net, Amazon
 host, ters.us-east-1.aiv-delivery.net, Amazon
 host-suffix, us-east-1.aiv-delivery.net, Amazon
 # Prime Video 国际区
-host-suffix, amazonaws.com, GlobalMedia
+host-suffix, amazonaws.com, Media
 host-suffix, primevideo.com, Amazon
 host-suffix, amazonvideo.com, Amazon
 host-suffix, media-amazon.com, Amazon
