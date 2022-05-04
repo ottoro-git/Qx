@@ -1,0 +1,243 @@
+# Streaming Media
+
+# CDN
+host-suffix, akamaihd.net, Media
+host-suffix, cloudfront.net, Media
+# > HBO
+host-suffix,hbomaxcdn.com, Media
+# > Disney+
+host-suffix,disneystreaming.com, Media
+host-suffix,dssott.com, Media
+# > Hulu
+host-suffix,hulustream.com, Media
+
+# (Live)
+# > Twitch
+host-suffix,ext-twitch.tv, Media
+host-suffix,jtvnw.net, Media
+host-suffix,ttvnw.net, Media
+host-suffix,twitch.tv, Media
+host-suffix,twitchcdn.net, Media
+host-suffix,twitch-ext.rootonline.de, Media
+
+# (Music)
+# > Deezer
+USER-AGENT,Deezer*, Media
+host-suffix,deezer.com, Media
+host-suffix,dzcdn.net, Media
+# > JOOX
+USER-AGENT,JOOX*, Media
+USER-AGENT,WeMusic*, Media
+host-suffix,joox.com, Media
+host-keyword,jooxweb-api, Media
+# > KKBOX
+host-suffix,kkbox.com, Media
+host-suffix,kkbox.com.tw, Media
+host-suffix,kfs.io, Media
+# > Pandora
+USER-AGENT,Pandora*, Media
+host-suffix,pandora.com, Media
+# > SoundCloud
+USER-AGENT,SoundCloud*, Media
+host-suffix,p-cdn.us, Media
+host-suffix,sndcdn.com, Media
+host-suffix,soundcloud.com, Media
+# > TIDAL
+USER-AGENT,TIDAL*, Media
+host-suffix,tidal.com, Media
+# > YouTubeMusic
+USER-AGENT,com.google.ios.youtubemusic*, Media
+USER-AGENT,YouTubeMusic*, Media
+
+# (Podcast)
+# > Pocket Casts
+host-suffix,pocketcasts.com, Media
+USER-AGENT,Pocket Casts,Media
+# > Overcast
+USER-AGENT,Overcast*, Media
+host-suffix,overcast.fm, Media
+
+# (Video)
+# > AbemaTV
+USER-AGENT,AbemaTV*,Media
+host-suffix,abema.io,Media
+host-suffix,abema.tv,Media
+host-suffix,ameba.jp,Media
+host-suffix,hayabusa.io,Media
+host-keyword,abematv.akamaized.net, Media
+# > All 4
+USER-AGENT,All4*, Media
+host-suffix,c4assets.com, Media
+host-suffix,channel4.com, Media
+# > Apple Music TV
+host,tv.applemusic.com, Media
+# > Bahamut
+host-suffix,bahamut.com.tw, Media
+host-suffix,gamer.com.tw, Media
+host,bahamut.akamaized.net, Media
+host,gamer-cds.cdn.hinet.net, Media
+host,gamer2-cds.cdn.hinet.net, Media
+# > BBC iPlayer
+USER-AGENT,BBCiPlayer* ,Media
+host-suffix,bbc.co.uk ,Media
+host-suffix,bbci.co.uk ,Media
+host-keyword,bbcfmt ,Media
+host-keyword,uk-live ,Media
+# > bilibili Intl
+host-suffix,biliintl.com, Media
+host,apm-misaka.biliapi.net, Media
+host,p.bstarstatic.com, Media
+host,p-bstarstatic.akamaized.net, Media
+host,upos-bstar-mirrorakam.akamaized.net, Media
+host,upos-bstar1-mirrorakam.akamaized.net, Media
+# > DAZN
+USER-AGENT,DAZN* ,Media
+host-suffix,dazn.com, Media
+host-suffix,dazn-api.com, Media
+host-suffix,dazndn.com, Media
+host-suffix,indazn.com, Media
+host,d151l6v8er5bdm.cloudfront.net, Media
+host-keyword,voddazn ,Media
+# > discovery+
+USER-AGENT,DPlus* ,Media
+USER-AGENT,discovery+* ,Media
+host-suffix,disco-api.com, Media
+host-suffix,discoveryplus.co.uk ,Media
+host-suffix,discoveryplus.com, Media
+host-suffix,discoveryplus.in ,Media
+host-suffix,dnitv.com, Media
+# host,go-prod-vz.akamaized.net, Media
+host,x-default-stgec.uplynk.com, Media
+host-keyword,discovery.uplynk.com, Media
+# > DMM
+host-suffix,dmm.co.jp ,Media
+host-suffix,dmm.com, Media
+host-suffix,dmm-extension.com, Media
+# > encoreTVB
+USER-AGENT,encoreTVB* ,Media
+host-suffix,encoretvb.com, Media
+host,edge.api.brightcove.com, Media
+host,bcbolt446c5271-a.akamaihd.net, Media
+# > HBO Asia
+USER-AGENT,HBO%20GO%20PROD* ,Media
+host-suffix,hbogoasia.com, Media
+host-suffix,hbogoasia.hk ,Media
+host-keyword,.hbogoasia. ,Media
+host,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, Media
+host,bcbolthboa-a.akamaihd.net, Media
+host,cf-images.ap-southeast-1.prod.boltdns.net, Media
+host,dai3fd1oh325y.cloudfront.net, Media
+host,hboasia1-i.akamaihd.net, Media
+host,hboasia2-i.akamaihd.net, Media
+host,hboasia3-i.akamaihd.net, Media
+host,hboasia4-i.akamaihd.net, Media
+host,hboasia5-i.akamaihd.net, Media
+host,hboasialive.akamaized.net, Media
+host,hbogoprod-vod.akamaized.net, Media
+host,hbolb.onwardsmg.com, Media
+host,hbounify-prod.evergent.com, Media
+host,players.brightcove.net, Media
+host,s3-ap-southeast-1.amazonaws.com, Media
+# > 华文电视
+USER-AGENT,HWTVMobile* ,Media
+host-suffix,5itv.tv ,Media
+host-suffix,ocnttv.com, Media
+# > Hulu / フールー
+host-suffix,happyon.jp ,Media
+host-suffix,hjholdings.jp ,Media
+host-suffix,hulu.jp ,Media
+# > ITV
+USER-AGENT,ITV_Player* ,Media
+host-suffix,itv.com, Media
+host-suffix,itvstatic.com, Media
+host,itvpnpmobile-a.akamaihd.net, Media
+# > iQIYI
+host-suffix,iq.com, Media
+host,intl.iqiyi.com, Media
+host,intl-rcd.iqiyi.com, Media
+host,intl-subscription.iqiyi.com, Media
+# > KKTV
+USER-AGENT,KKTV* ,Media
+USER-AGENT,com.kktv.ios.kktv* ,Media
+host-suffix,kktv.com.tw ,Media
+host-suffix,kktv.me ,Media
+host,kktv-theater.kk.stream ,Media
+# > LINE TV
+USER-AGENT,LINE%20TV* ,Media
+host-suffix,linetv.tw ,Media
+host,d3c7rimkq79yfu.cloudfront.net, Media
+# > LiTV
+host-suffix,litv.tv ,Media
+host,litvfreemobile-hichannel.cdn.hinet.net, Media
+# > My5
+USER-AGENT,My5* ,Media
+host-suffix,channel5.com, Media
+host-suffix,my5.tv ,Media
+host,d349g9zuie06uo.cloudfront.net, Media
+# > myTV SUPER
+USER-AGENT,mytv* ,Media
+host-suffix,mytvsuper.com, Media
+host-suffix,tvb.com, Media
+# > Naver TV
+USER-AGENT,Naver%20TV* ,Media
+host-suffix,naver.com, Media
+host-suffix,smartmediarep.com, Media
+# > niconico
+USER-AGENT,Niconico* ,Media
+host-suffix,dmc.nico ,Media
+host-suffix,nicovideo.jp ,Media
+host-suffix,nimg.jp ,Media
+# > Now E
+host-suffix,nowe.com, Media
+host-suffix,nowestatic.com, Media
+# > Paramount+
+USER-AGENT,PPlus*, Media
+host-suffix,cbsi.com, Media
+host-suffix,cbsaavideo.com, Media
+host-suffix,cbsivideo.com, Media
+host-suffix,paramountplus.com, Media
+host-suffix,pplusstatic.com, Media
+host,cbsi.live.ott.irdeto.com, Media
+host,cbsplaylistserver.aws.syncbak.com, Media
+host,cbsservice.aws.syncbak.com, Media
+host,link.theplatform.com, Media
+# > PBS
+USER-AGENT,PBS*, US
+host-suffix,pbs.org,US
+# > Peacock
+USER-AGENT,PeacockMobile*,US
+host-suffix,peacocktv.com, US
+# > Pornhub
+host-suffix,phncdn.com, Media
+host-suffix,phprcdn.com, Media
+host-suffix,pornhub.com, Media
+host-suffix,pornhubpremium.com, Media
+# > 台湾好
+USER-AGENT,TaiwanGood*,Media
+host-suffix,skyking.com.tw, Media
+host,hamifans.emome.net, Media
+# > TikTok
+USER-AGENT,TikTok*,Media
+host-suffix,byteoversea.com, Media
+host-suffix,ibytedtos.com, Media
+host-suffix,muscdn.com, Media
+host-suffix,musical.ly,Media
+host-suffix,tiktok.com, Media
+host-suffix,tik-tokapi.com, Media
+host-suffix,tiktokcdn.com, Media
+host-suffix,tiktokv.com, Media
+host-keyword,tiktokcdn-,Media
+# > TVer
+USER-AGENT,TVer-Release*,Media
+host-suffix,tver.jp,Media
+host,edge.api.brightcove.com, Media
+# > ViuTV
+host-suffix,viu.com, Media
+host-suffix,viu.tv,Media
+host,api.viu.now.com, Media
+host,d1k2us671qcoau.cloudfront.net, Media
+host,d2anahhhmp1ffz.cloudfront.net, Media
+host,dfp6rglgjqszk.cloudfront.net, Media
+# > WeTV
+host-suffix,wetv.vip,Media
+host-suffix,wetvinfo.com, Media
