@@ -4,7 +4,7 @@ host-keyword, trakt, Global
 host-suffix, rottentomatoes.com, Global
 host-suffix, themoviedb.org, Global
 host-suffix, tmdb.org, Global
-host-suffix, plex.tv, GlobalMedia
+host-suffix, plex.tv, Global
 
 # >Games
 # Nintendo
