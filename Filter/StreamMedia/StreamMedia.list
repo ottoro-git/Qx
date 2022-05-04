@@ -1,5 +1,5 @@
 # Disney+
-host-suffix, dssott.com, GlobalMedia
+host-suffix, dssott.com, Media
 user-agent, Disney+*, Disney+
 host-suffix, disneyplus.com, Disney+
 host-suffix, disney-plus.net, Disney+
@@ -8,8 +8,8 @@ host-suffix, bamgrid.com, Disney+
 host,cdn.registerdisney.go.com, Disney+
 host-suffix, salesforceliveagent.com, Disney+
 # Emby
-host-keyword, emby, GlobalMedia
-host-keyword, jmsooo.com, GlobalMedia
+host-keyword, emby, Media
+host-keyword, jmsooo.com, Media
 # Netflix
 host-suffix, us-west-2.amazonaws.com, Netflix
 host-keyword, netflix, Netflix
@@ -32,7 +32,7 @@ ip-cidr,192.173.64.0/18,Netflix
 ip-cidr,198.38.96.0/19,Netflix
 ip-cidr,198.45.48.0/20,Netflix
 # Pocketcasts
-host-suffix, pocketcasts.com, GlobalMedia
+host-suffix, pocketcasts.com, Media
 # Prime Video 美区
 host, atv-ps.amazon.com, Amazon
 host, s3-iad-2.cf.hls.row.aiv-cdn.net, Amazon
@@ -42,7 +42,7 @@ host, s3-iad-ww.cf.videorolls.row.aiv-cdn.net, Amazon
 host, ters.us-east-1.aiv-delivery.net, Amazon
 host-suffix, us-east-1.aiv-delivery.net, Amazon
 # Prime Video 国际区
-host-suffix, amazonaws.com, GlobalMedia
+host-suffix, amazonaws.com, Media
 host-suffix, primevideo.com, Amazon
 host-suffix, amazonvideo.com, Amazon
 host-suffix, media-amazon.com, Amazon
@@ -61,7 +61,7 @@ host-suffix, spotify.com, Spotify
 host-suffix, spotifycdn.com, Spotify
 host-keyword, spotify, Spotify
 # Hulu
-host-suffix, hulustream.com, GlobalMedia
+host-suffix, hulustream.com, Media
 host-keyword, hulu, US
 host-suffix, hulu.com, US
 host-suffix, hulu.tv, US
@@ -69,7 +69,7 @@ host-suffix, huluim.com, US
 host, cws-hulu.conviva.com, US
 host, assetshuluimcom-a.akamaihd.net, US
 # HBO Max
-host-suffix, hbomaxcdn.com, GlobalMedia
+host-suffix, hbomaxcdn.com, Media
 user-agent, HBOMAX*, US
 host-suffix, hbo.com, US
 host-suffix, hbogo.com, US
@@ -77,19 +77,19 @@ host-suffix, hbomax.com, US
 host-suffix, hbonow.com, US
 # EPSN+
 host, espn.connections.edge.bamgrid.com, US
-host-suffix, media.plus.espn.com, GlobalMedia
+host-suffix, media.plus.espn.com, Media
 host-suffix, espncdn.com, US
 host-suffix, espn.com, US
 # YouTube
-host-keyword,youtube,GlobalMedia
-host-suffix,googlevideo.com,GlobalMedia
-host-suffix,youtube.com,GlobalMedia
-host-suffix,ytimg.com,GlobalMedia
-host,youtubei.googleapis.com,GlobalMedia
-host,yt3.ggpht.com,GlobalMedia
-host-suffix,youtu.be,GlobalMedia
-host-suffix,yt.be,GlobalMedia
-host-suffix,gv.com,GlobalMedia
-host-suffix,gvt0.com,GlobalMedia
-host-suffix,gvt1.com,GlobalMedia
-host-suffix,gvt3.com,GlobalMedia
+host-keyword,youtube,Media
+host-suffix,googlevideo.com,Media
+host-suffix,youtube.com,Media
+host-suffix,ytimg.com,Media
+host,youtubei.googleapis.com,Media
+host,yt3.ggpht.com,Media
+host-suffix,youtu.be,Media
+host-suffix,yt.be,Media
+host-suffix,gv.com,Media
+host-suffix,gvt0.com,Media
+host-suffix,gvt1.com,Media
+host-suffix,gvt3.com,Media
