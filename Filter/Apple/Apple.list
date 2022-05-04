@@ -43,7 +43,7 @@ host-suffix,hls.itunes.apple.com, Apple
 # Movie Stream
 host-suffix,hls-amt.itunes.apple.com, Apple
 # Apple 代理加速
-host,developer.apple.com, GlobalMedia
+host,developer.apple.com, Global
 
 # iCloud 上传和下载
 host,cvws.icloud-content.com, Apple
