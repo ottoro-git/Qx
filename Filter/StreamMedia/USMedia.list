@@ -1,5 +1,5 @@
 # Hulu
-host-suffix, hulustream.com, GlobalMedia
+host-suffix, hulustream.com, Media
 host-keyword, hulu, US
 host-suffix, hulu.com, US
 host-suffix, hulu.tv, US
@@ -7,7 +7,7 @@ host-suffix, huluim.com, US
 host, cws-hulu.conviva.com, US
 host, assetshuluimcom-a.akamaihd.net, US
 # HBO Max
-host-suffix, hbomaxcdn.com, GlobalMedia
+host-suffix, hbomaxcdn.com, Media
 user-agent, HBOMAX*, US
 host-suffix, hbo.com, US
 host-suffix, hbogo.com, US
@@ -15,6 +15,6 @@ host-suffix, hbomax.com, US
 host-suffix, hbonow.com, US
 # EPSN+
 host, espn.connections.edge.bamgrid.com, US
-host-suffix, media.plus.espn.com, GlobalMedia
+host-suffix, media.plus.espn.com, Media
 host-suffix, espncdn.com, US
 host-suffix, espn.com, US
