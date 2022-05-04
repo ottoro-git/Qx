@@ -25,5 +25,5 @@ host-suffix,twimg.com, Global
 # Instagram
 host-keyword,instagram,Global
 # Clubhouse
-host-suffix, clubhouseapi.com, GlobalMedia
-host-keyword, clubhouse, GlobalMedia
+host-suffix, clubhouseapi.com, Media
+host-keyword, clubhouse, Media
