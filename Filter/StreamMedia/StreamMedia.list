@@ -8,8 +8,8 @@ host-suffix, bamgrid.com, Disney+
 host,cdn.registerdisney.go.com, Disney+
 host-suffix, salesforceliveagent.com, Disney+
 # Emby
-host-keyword, emby, Media
-host-keyword, jmsooo.com, Media
+host-keyword, emby, Emby
+host-keyword, jmsooo.com, Emby
 # Netflix
 host-suffix, us-west-2.amazonaws.com, Netflix
 host-keyword, netflix, Netflix
