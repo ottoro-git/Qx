@@ -4,7 +4,7 @@
 host-suffix, akamaihd.net, Media
 host-suffix, cloudfront.net, Media
 # > HBO
-host-suffix,hbomaxcdn.com, Media
+host-suffix,hbomaxcdn.com, US
 # > Disney+
 host-suffix,disneystreaming.com, Media
 host-suffix,dssott.com, Media
