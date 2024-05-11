@@ -1,15 +1,3 @@
-# Disney+
-host-suffix, dssott.com, Media
-user-agent, Disney+*, Disney+
-host-suffix, disneyplus.com, Disney+
-host-suffix, disney-plus.net, Disney+
-host-suffix, disneystreaming.com, Disney+
-host-suffix, bamgrid.com, Disney+
-host,cdn.registerdisney.go.com, Disney+
-host-suffix, salesforceliveagent.com, Disney+
-# Emby
-host-keyword, emby, Emby
-host-keyword, jmsooo.com, Emby
 # Netflix
 host-suffix, us-west-2.amazonaws.com, Netflix
 host-keyword, netflix, Netflix
@@ -31,8 +19,10 @@ ip-cidr,108.175.32.0/20,Netflix
 ip-cidr,192.173.64.0/18,Netflix
 ip-cidr,198.38.96.0/19,Netflix
 ip-cidr,198.45.48.0/20,Netflix
+
 # Pocketcasts
 host-suffix, pocketcasts.com, Media
+
 # Prime Video 美区
 host, atv-ps.amazon.com, Amazon
 host, s3-iad-2.cf.hls.row.aiv-cdn.net, Amazon
@@ -55,6 +45,7 @@ host-suffix, pv-cdn.net, Amazon
 host, avodmp4s3ww-a.akamaihd.net, Amazon
 host, pv-cdn.net, Amazon
 host-suffix, execute-api.ap-southeast-1.amazonaws.com, Amazon
+
 # Spotify
 host-suffix, scdn.co, Spotify
 host-suffix, spotify.com, Spotify
