@@ -1,0 +1,156 @@
+# General
+
+#GitHub
+host-suffix, github.com, Global
+host-suffix, githubusercontent.com, Global
+host-keyword, github, Global
+
+# Google
+host-suffix, google.com, Global
+host-suffix, googleapis.com, Global
+host-suffix, gstatic.com, Global
+host-suffix, googleusercontent.com, Global
+host-suffix, googlevideo.com, Global
+host-keyword, google, Global
+
+#YouTube
+host-suffix, youtube.com, Global
+host-suffix, googlevideo.com, Global
+host-suffix, ytimg.com, Global
+host-suffix, ggpht.com, Global
+host-suffix, youtu.be, Global
+host-suffix, youtubei.googleapis.com, Global
+host-keyword, youtube, Global
+
+# Instagram & Threads
+host-suffix, cdninstagram.com, Global
+host-suffix, instagr.am, Global
+host-suffix, instagram.com, Global
+host-keyword, instagram, Global
+host-suffix, threads.net, Global
+host-keyword, threads, Global
+
+# Meta
+host-suffix,accountkit.com, Global
+host-suffix,cdninstagram.com, Global
+host-suffix,f8.com, Global
+host-suffix,facebookmail.com, Global
+host-suffix,fb.com, Global
+host-suffix,fb.me, Global
+host-suffix,fb.watch, Global
+host-suffix,fbaddins.com, Global
+host-suffix,fbcdn.net, Global
+host-suffix,fbsbx.com, Global
+host-suffix,fbworkmail.com, Global
+host-suffix,instagram.com, Global
+host-suffix,m.me, Global
+host-suffix,messenger.com, Global
+host-suffix,oculus.com, Global
+host-suffix,oculuscdn.com, Global
+host-suffix,readyatdawn.com, Global
+host-suffix,rocksdb.org, Global
+host-suffix,whatsapp.com, Global
+host-suffix,whatsapp.net, Global
+host-keyword,facebook, Global
+
+# Pinterest
+host-suffix,pinimg.com, Global
+host-keyword,pinterest, Global
+
+# Reddit
+host-suffix,redd.it, Global
+host-suffix,reddit.com, Global
+host-suffix,redditmedia.com, Global
+host-suffix,redditstatic.com, Global
+
+# Telegram
+HOST,api.imem.app, Global
+HOST,api.swiftgram.app, Global
+host-suffix,cdn-telegram.org, Global
+host-suffix,comments.app, Global
+host-suffix,contest.com, Global
+host-suffix,graph.org, Global
+host-suffix,legra.ph, Global
+host-suffix,mbrx.app, Global
+host-suffix,quiz.directory, Global
+host-suffix,stel.com, Global
+host-suffix,t.me, Global
+host-suffix,tdesktop.com, Global
+host-suffix,telega.one, Global
+host-suffix,telegra.ph, Global
+host-suffix,telegram-cdn.org, Global
+host-suffix,telegram.dog, Global
+host-suffix,telegram.me, Global
+host-suffix,telegram.org, Global
+host-suffix,telegram.space, Global
+host-suffix,telegramdownload.com, Global
+host-suffix,telesco.pe, Global
+host-suffix,tg.dev, Global
+host-suffix,tx.me, Global
+host-suffix,usercontent.dev, Global
+HOST-KEYWORD,nicegram, Global
+IP-CIDR,109.239.140.0/24, Global
+IP-CIDR,139.59.210.98/32, Global
+IP-CIDR,149.154.160.0/20, Global
+IP-CIDR,196.55.216.167/32, Global
+IP-CIDR,5.28.192.0/18, Global
+IP-CIDR,91.108.0.0/16, Global
+IP6-CIDR,2001:67c:4e8::/48, Global
+IP6-CIDR,2001:b28:f23c::/47, Global
+IP6-CIDR,2001:b28:f23f::/48, Global
+IP6-CIDR,2a0a:f280::/29, Global
+IP-ASN,211157, Global
+IP-ASN,44907, Global
+IP-ASN,59930, Global
+IP-ASN,62014, Global
+IP-ASN,62041, Global
+
+# Twitter
+host-suffix,ads-twitter.com, Global
+host-suffix,cms-twdigitalassets.com, Global
+host-suffix,grok.com, Global
+host-suffix,periscope.tv, Global
+host-suffix,pscp.tv, Global
+host-suffix,t.co, Global
+host-suffix,tellapart.com, Global
+host-suffix,tweetdeck.com, Global
+host-suffix,twimg.co, Global
+host-suffix,twimg.com, Global
+host-suffix,twimg.org, Global
+host-suffix,twitpic.com, Global
+host-suffix,twitter.biz, Global
+host-suffix,twitter.com, Global
+host-suffix,twitter.jp, Global
+host-suffix,twittercommunity.com, Global
+host-suffix,twitterflightschool.com, Global
+host-suffix,twitterinc.com, Global
+host-suffix,twitteroauth.com, Global
+host-suffix,twitterstat.us, Global
+host-suffix,twtrdns.net, Global
+host-suffix,twttr.com, Global
+host-suffix,twttr.net, Global
+host-suffix,twvid.com, Global
+host-suffix,vine.co, Global
+host-suffix,x.com, Global
+HOST-KEYWORD,twitter, Global
+IP-CIDR,192.133.76.0/22, Global
+IP-CIDR,199.59.148.0/22, Global
+IP-CIDR,199.96.56.0/21, Global
+IP-CIDR,202.160.128.0/22, Global
+IP-CIDR,209.237.192.0/19, Global
+IP-CIDR,69.195.160.0/19, Global
+
+# Wikimedia
+host-suffix,mediawiki.org, Global
+host-suffix,wikibooks.org, Global
+host-suffix,wikidata.org, Global
+host-suffix,wikileaks.org, Global
+host-suffix,wikimedia.org, Global
+host-suffix,wikimediafoundation.org, Global
+host-suffix,wikinews.org, Global
+host-suffix,wikipedia.org, Global
+host-suffix,wikiquote.org, Global
+host-suffix,wikisource.org, Global
+host-suffix,wikiversity.org, Global
+host-suffix,wikivoyage.org, Global
+host-suffix,wiktionary.org, Global
