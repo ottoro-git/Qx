@@ -1,15 +1,14 @@
-# Steam
-host-suffix,steam-chat.com, Steam
-host-suffix,steamcontent.com, Steam
-host-suffix,steamgames.com, Steam
-host-suffix,steampowered.com, Steam
-host-suffix,steamstat.us, Steam
-host-suffix,steamstatic.com, Steam
-host-suffix,steamusercontent.com, Steam
-host,steambroadcast.akamaized.net, Steam
-host,steamcdn-a.akamaihd.net, Steam
-host,steamcommunity-a.akamaihd.net, Steam
-host,steamstore-a.akamaihd.net, Steam
-host,steamusercontent-a.akamaihd.net, Steam
-host,steamusercontent-a.akamaihd.net, Steam
-host,steamuserimages-a.akamaihd.net, Steam
+# Spotify
+# --- Spotify 极简规则 ---
+# 主域名 (API, 网页, 验证)
+host-keyword, spotify, Spotify
+host-suffix, spoti.fi, Spotify
+
+# 核心 CDN (非常重要：负责封面图、音频流)
+host-suffix, scdn.co, Spotify
+host-suffix, pscdn.co, Spotify
+host-suffix, spotifycdn.com, Spotify
+host-suffix, spotify-everywhere.com, Spotify
+
+# 播客相关
+host-suffix, audio-ak-spotify-com.akamaized.net, Spotify

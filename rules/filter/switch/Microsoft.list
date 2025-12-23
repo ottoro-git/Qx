@@ -1,14 +1,25 @@
 ## ---------- MICROSOFT ---------- ##
+# General
+host-keyword, microsoft, Microsoft
+host-keyword, live, Microsoft
+host-suffix,streaming.mediaservices.windows.net,Microsoft
+host,az416426.vo.msecnd.net,Microsoft
+host,az668014.vo.msecnd.net,Microsoft
+host-suffix, microsoft.com, Microsoft
+host-suffix, microsoftonline.com, Microsoft
+host-suffix, s-microsoft.com, Microsoft
+host-suffix, live.com, Microsoft
+host-suffix, live.net, Microsoft
+host-suffix, microsofttranslator.com, Microsoft
 
 # One Drvie
-host, onedrive.live.com, Microsoft
+host-keyword, onedrive, Microsoft
+host-suffix, 1drv.com, Microsoft
+host-suffix, 1drv.ms, Microsoft
 host-suffix, onedrive.com, Microsoft
-## One Drive 在线视观看
-host-suffix, 1drv.com, Onedrive
-## One Drive 文件上传
-host-suffix, sharepoint.com, Onedrive
-host-suffix, storage.live.com, Onedrive
-host-suffix, livefilestore.com, Onedrive
+host-suffix, live.com, Microsoft
+host-suffix, sharepoint.com, Microsoft
+host-suffix, sharepointonline.com, Microsoft
 
 
 # Xbox
@@ -24,14 +35,7 @@ host-suffix, office.com, Microsoft
 host-keyword, officecdn, Microsoft
 host-suffix, office365.com, Microsoft
 
-# Microsoft
-host-suffix,streaming.mediaservices.windows.net,Microsoft
-host,az416426.vo.msecnd.net,Microsoft
-host,az668014.vo.msecnd.net,Microsoft
-
-host-suffix, microsoft.com, Microsoft
-host-suffix, microsoftonline.com, Microsoft
-host-suffix, s-microsoft.com, Microsoft
-host-suffix, live.com, Microsoft
-host-suffix, live.net, Microsoft
-host-suffix, microsofttranslator.com, Microsoft
+# VS Code 插件市场
+host-suffix, visualstudio.com, Microsoft
+host-suffix, vsassets.io, Microsoft
+host-suffix, gallerycdn.vsassets.io, Microsoft
