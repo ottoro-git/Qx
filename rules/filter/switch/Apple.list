@@ -1,13 +1,13 @@
 ## ----------  APPLE ---------- ##
 # Apple News 解锁
 host-suffix, gateway.icloud.com, Apple
-host-suffix, apple.news, US
-host-suffix, news-events.apple.com, US
-host-suffix, news-client.apple.com, US
-host-suffix, news-edge.apple.com, US
-host-suffix, news-assets.apple.com, US
-user-agent, News*, US
-user-agent, AppleNews*, US
+host-suffix, apple.news, Apple
+host-suffix, news-events.apple.com, Apple
+host-suffix, news-client.apple.com, Apple
+host-suffix, news-edge.apple.com, Apple
+host-suffix, news-assets.apple.com, Apple
+user-agent, News*, Apple
+user-agent, AppleNews*, Apple
 
 ## GeoServices.framework,会改变自带地图服务提供商
 host-suffix, gspe1-ssl.ls.apple.com, Apple
