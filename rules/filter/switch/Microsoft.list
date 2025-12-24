@@ -1,7 +1,6 @@
 ## ---------- MICROSOFT ---------- ##
 # General
 host-keyword, microsoft, Microsoft
-host-keyword, live, Microsoft
 host-suffix,streaming.mediaservices.windows.net,Microsoft
 host,az416426.vo.msecnd.net,Microsoft
 host,az668014.vo.msecnd.net,Microsoft
